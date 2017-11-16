@@ -1,4 +1,4 @@
- <?php
+<?php
 /**
 * Plugin Name: TinyMCE Accessibility Checker
 * Plugin URI: https://www.n7studios.co.uk
