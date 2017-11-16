@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: TinyMCE Accessibility Checker
-* Plugin URI: https://www.n7studios.co.uk
+* Plugin URI: https://www.n7studios.co.uk/adding-tinymce-accessibility-checker-wordpress/
 * Version: 1.0.0
 * Author: n7 Studios
 * Author URI: https://www.n7studios.co.uk/
